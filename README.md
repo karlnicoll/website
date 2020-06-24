@@ -1,6 +1,6 @@
 # My Personal Website
 
-https://travis-ci.org/karlnicoll/website.svg?branch=master
+[![Build Status](https://travis-ci.org/karlnicoll/website.svg?branch=master)](https://travis-ci.org/karlnicoll/website)
 
 This is the source code for my personal Website. The actual website can
 be found here:
