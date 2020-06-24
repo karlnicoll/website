@@ -1,0 +1,83 @@
+url: http://www.karlnicoll.net
+theme: jekyll-oceanic
+author:
+  name: "Karl Nicoll"
+tagline: Verified human. Mostly making it up as he goes along.
+lang: en_GB
+logo: "/assets/img/avatar.png"
+
+show_excerpts: true
+oceanic:
+  skin: classy-black
+  avatar:
+    url: "/assets/img/avatar.png"
+    width: "100px"
+    height: "100px"
+  social:
+    facebook: https://www.facebook.com/karlnicoll
+    github: https://www.github.com/karlnicoll
+    linkedin: https://www.linkedin.com/in/karlnicoll/
+    stackoverflow: https://stackoverflow.com/users/52724/karl-nicoll
+    steam: https://steamcommunity.com/id/majesticmerc/
+    twitter: https://www.twitter.com/karlnicoll
+  oceanic.homepage_blog_entries: 5
+
+# Pagination settings. The Oceanic template uses jekyll-paginate-v2 to
+# allow pagination of posts.
+pagination:
+  enabled: true
+  debug: false
+  collection: posts
+  per_page: 5
+  permalink: "/page:num/"
+  title: ':title - page :num'
+  limit: 0
+  sort_field: date
+  sort_reverse: true
+  category: posts
+  tag: ''
+  locale: ''
+
+autopages:
+  enabled: false
+
+  # Category pages, omit entire config element to disable
+  categories:
+    # Optional, the list of layouts that should be processed for every category found in the site
+    layouts:
+      - 'autopage.html'
+    # Optional, the title that each category paginate page should get (:cat is replaced by the Category name)
+    title: 'Posts in category :cat'
+    # Optional, the permalink for the  pagination page (:cat is replaced),
+    # the pagination permalink path is then appended to this permalink structure
+    slugify:
+      mode: 'default'   # :cat is slugified. Modes: default, raw, pretty, ascii, latin
+      case: false       # Whether to replace all uppercase letters with their lowercase counterparts
+
+  collections:
+    layouts:
+      - 'autopage.html'
+
+  tags:
+    layouts:
+      - 'autopage.html'
+
+# Specify the code highlighter. Oceanic is tested against the Rouge
+# syntax highlighter.
+highlighter: rouge
+
+# The Oceanic template provides layout support for the jekyll-archives
+# plugin. If are using it, it can be configured here.
+# jekyll-archives:
+#  enabled:
+#    - categories
+#  layout: archive
+#  permalinks:
+#    year: '/:year/'
+#    month: '/:year/:month/'
+#    day: '/:year/:month/:day/'
+#    tag: '/tag/:name/'
+#    category: '/category/:name/'
+
+plugins:
+  - jekyll-sitemap

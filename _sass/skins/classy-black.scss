@@ -1,0 +1,51 @@
+/*
+ * "classy-black" skin.
+ *
+ * A sophisticated matte-black theme. Enable in _config.yml with:
+ *
+ *     oceanic:
+ *       skin: classy-black
+ */
+
+/**********************************************************************/
+/* Fonts                                                              */
+/**********************************************************************/
+
+@import url(
+	'https://fonts.googleapis.com/css2?family=Merriweather:wght@300;900&family=Lato:ital,wght@0,300;0,400;0,700;1,400&family=Noto+Sans+JP&family=Source+Code+Pro:ital,wght@0,400;0,700;1,400;1,700&display=swap'
+);
+
+$default-font: 'Merriweather', serif;
+$site-title-font: 'Merriweather', serif;
+$header-font: 'Lato', Helvetica, 'Arial', sans-serif;
+$aside-font: 'Lato', 'Helvetica', 'Arial', sans-serif;
+$code-font: "Source Code Pro", monospace;
+$table-header-font: 'Merriweather', serif;
+$table-cell-font: "Lato", sans-serif;
+
+/**********************************************************************/
+/* Header                                                             */
+/**********************************************************************/
+
+$body-background: linear-gradient(90deg, #222222 0%, #262626 50%);
+$header-seam: 2px dashed #CC622B;
+$avatar-aura-color: #FFA81C;
+$header-text-color: #DDD;
+$subtitle-font-weight: 300;
+$selected-navigation-color: #FFA200;
+$header-separator: 2px solid #DDD;
+$social-media-icon-color: #AAA;
+$hamburger-menu-color: #BBB;
+
+/**********************************************************************/
+/* Content Area                                                       */
+/**********************************************************************/
+
+$title-color: #E87C0C;
+$title-underline-color: #01807B;
+$text-color: #3B3224;
+$heading-color: #3B3224;
+$link-unvisited-color: #30562B;
+$link-visited-color: #8CBB3A;
+$table-border-style: 3px solid #BBB;
+$table-cell-border-style: 1px solid #BBB;
