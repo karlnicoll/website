@@ -8,7 +8,7 @@ nav:
 
 ## Who are you?
 
-My name is Karl, and I’m a husband, father of one, and a software
+My name is Karl, and I’m a husband, father of two, and a software
 developer. I’m currently based out of Cambridge in the United Kingdom.
 I like football, long distance running, mountain biking, most kinds of
 music, movies and gaming.
@@ -20,10 +20,10 @@ In former lives, I've written .NET web systems for the
 [NHS](https://www.nhs.uk/), cross-platform C++ for
 [ACTIV Financial Systems](https://www.activfinancial.com/), and now I'm
 starting a new journey developing robotics systems in C++ for
-[Amazon](https://www.amazon.com). I like to dabble in many different
-programming languages including Python, Ruby, C#, PHP and Javascript,
-and occasionally even shell scripts. I’m qualified with a BSc in
-Computer Programming, which I achieved at
+[Amazon](https://www.aboutamazon.com/news/transportation/meet-scout). I like to
+dabble in many different programming languages including C++, Python, Ruby, C#,
+PHP and Javascript, and occasionally even shell scripts. I’m qualified with a
+BSc in Computer Programming, which I achieved at
 [Teesside University](https://www.tees.ac.uk) with first class honours.
 
 ## What is this place?
