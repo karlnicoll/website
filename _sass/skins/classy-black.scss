@@ -12,15 +12,16 @@
 /**********************************************************************/
 
 @import url(
-	'https://fonts.googleapis.com/css2?family=Merriweather:wght@300;900&family=Lato:ital,wght@0,300;0,400;0,700;1,400&family=Noto+Sans+JP&family=Source+Code+Pro:ital,wght@0,400;0,700;1,400;1,700&display=swap'
+	'https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap'
 );
 
-$default-font: 'Merriweather', serif;
-$site-title-font: 'Merriweather', serif;
+$default-font: 'Lato', Helvetica, 'Arial', sans-serif;
+$site-title-font: 'Lora', serif;
 $header-font: 'Lato', Helvetica, 'Arial', sans-serif;
+$heading-font: 'Lora', serif;
 $aside-font: 'Lato', 'Helvetica', 'Arial', sans-serif;
-$code-font: "Source Code Pro", monospace;
-$table-header-font: 'Merriweather', serif;
+$code-font: 'JetBrains Mono', monospace;;
+$table-header-font: 'Lora', serif;
 $table-cell-font: "Lato", sans-serif;
 
 /**********************************************************************/
@@ -28,8 +29,8 @@ $table-cell-font: "Lato", sans-serif;
 /**********************************************************************/
 
 $body-background: linear-gradient(90deg, #222222 0%, #262626 50%);
-$header-seam: 2px dashed #FFA81C;
-$avatar-aura-color: #FFA81C;
+$header-seam: 2px dashed #e69973;
+$avatar-aura-color: #e69973;
 $header-text-color: #DDD;
 $subtitle-font-weight: 300;
 $selected-navigation-color: #FFA200;
