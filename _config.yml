@@ -14,7 +14,7 @@ oceanic:
     width: "100px"
     height: "100px"
   social:
-    facebook: https://www.facebook.com/karlnicoll
+    facebook:
     github: https://www.github.com/karlnicoll
     linkedin: https://www.linkedin.com/in/karlnicoll/
     stackoverflow: https://stackoverflow.com/users/52724/karl-nicoll
