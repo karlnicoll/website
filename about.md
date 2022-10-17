@@ -8,22 +8,27 @@ nav:
 
 ## Who are you?
 
-My name is Karl, and I’m a husband, father of two, and a software
-developer. I’m currently based out of Cambridge in the United Kingdom.
-I like football, long distance running, mountain biking, most kinds of
-music, movies and gaming.
+My name is Karl, and I am a software engineer. I am currently working for
+[Amazon](https://www.amazon.com), working on the
+[Scout autonomous delivery robot](https://www.aboutamazon.com/news/transportation/meet-scout).
+In previous lives, I have also written cross platform C++ server systems for
+the FinTech industry at
+[ACTIV Financial Systems (now part of the Options IT family)](https://www.options-it.com/),
+and before that I was an ASP.NET developer for the UK
+[National Health Service](https://www.nhs.uk/).
+
+Perhaps more importantly, I am a husband and father of two.
+
+<img src="/files/the-family.jpg" alt="Picture of me and my family" style="margin:auto; display:block; width:50%; border-radius:10px">
+
+I’m currently based out of Cambridge in the United Kingdom. I like football,
+long distance running, mountain biking, most kinds of music, movies and
+computer gaming.
 
 I’m a Linux enthusiast and I run Arch or Ubuntu Linux on most of my PCs
-at home.
+at home, and feel most at home hacking with configs and code.
 
-In former lives, I've written .NET web systems for the
-[NHS](https://www.nhs.uk/), cross-platform C++ for
-[ACTIV Financial Systems](https://www.activfinancial.com/), and now I'm
-starting a new journey developing robotics systems in C++ for
-[Amazon](https://www.aboutamazon.com/news/transportation/meet-scout). I like to
-dabble in many different programming languages including C++, Python, Ruby, C#,
-PHP and Javascript, and occasionally even shell scripts. I’m qualified with a
-BSc in Computer Programming, which I achieved at
+I’m qualified with a BSc in Computer Programming, which I achieved at
 [Teesside University](https://www.tees.ac.uk) with first class honours.
 
 ## What is this place?
@@ -31,3 +36,7 @@ BSc in Computer Programming, which I achieved at
 This is mainly a place where I keep my thoughts and links to my various
 different projects. You can find most of my projects on my Github or on
 my [portfolio](/portfolio) page.
+
+I have a blog, but I don't usually post anything unless I have something
+interesting or useful to say, so you can sometimes expect _years_ between posts
+:-).
