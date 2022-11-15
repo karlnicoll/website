@@ -28,13 +28,13 @@ $table-cell-font: "Lato", sans-serif;
 /* Header                                                             */
 /**********************************************************************/
 
-$body-background: linear-gradient(90deg, #222222 0%, #262626 50%);
-$header-seam: 2px dashed #e69973;
-$avatar-aura-color: #e69973;
+$body-background: url("/assets/img/background-texture.png") repeat;
+$header-seam: 2px dashed #666;
+$avatar-aura-color: #999;
 $header-text-color: #DDD;
 $subtitle-font-weight: 300;
 $selected-navigation-color: #FFA200;
-$header-separator: 2px solid #DDD;
+$header-separator: groove #aaa;
 $social-media-icon-color: #AAA;
 $hamburger-menu-color: #BBB;
 
@@ -50,3 +50,18 @@ $link-unvisited-color: #30562B;
 $link-visited-color: #8CBB3A;
 $table-border-style: 3px solid #BBB;
 $table-cell-border-style: 1px solid #BBB;
+
+/**********************************************************************/
+/* Custom Styles                                                      */
+/**********************************************************************/
+
+p > img {
+	display: block;
+	margin:auto;
+}
+
+p > code {
+	background:#EEE;
+	border-radius: 4px;
+	font-size: 90%;
+}
